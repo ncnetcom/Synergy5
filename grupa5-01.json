@@ -1,7 +1,1 @@
-{
-"type":"ServerProfileV6",
-"name":"Grupa5-01",
-"description":"Ver: TypA - Plain Compute",
-"serverHardwareTypeUri": "/rest/server-hardware-types/97CBF820-614B-47D0-B430-A911CEF94D44",
-"enclosureGroupUri":"/rest/enclosure-groups/e2258160-bb7e-4ecb-94cd-31bad9999de9",
-}
+{"type":"ServerProfileV6","name":"Grupa5-01","description":"Ver: TypA - Plain Compute","serverHardwareTypeUri": "/rest/server-hardware-types/97CBF820-614B-47D0-B430-A911CEF94D44","enclosureGroupUri":"/rest/enclosure-groups/e2258160-bb7e-4ecb-94cd-31bad9999de9"}
